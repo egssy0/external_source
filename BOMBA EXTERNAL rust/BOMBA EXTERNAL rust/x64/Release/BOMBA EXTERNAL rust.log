@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\math\math.h(719,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\math\math.h(721,18): warning C4305: +=: усечение из "double" в "float"
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\math\math.h(723,18): warning C4305: -=: усечение из "double" в "float"
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\math\math.h(725,18): warning C4305: +=: усечение из "double" в "float"
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\math\math.h(726,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\math\math.h(735,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\init\overlay.h(332,74): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\mem_driver\hello.h(328,34): warning C4101: exc: неиспользованная локальная переменная
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(758,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(762,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(766,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(770,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(774,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(778,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(782,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(786,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(790,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(794,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(798,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(802,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(806,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(810,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(814,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(818,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(822,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(826,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(830,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(834,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(838,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(842,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(846,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(850,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(856,18): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(872,20): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(1160,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\sdk\sdk.h(1160,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\main.cpp(54,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\BOMBA EXTERNAL rust\main.cpp(54,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  236 of 1460 functions (16.2%) were compiled, the rest were copied from previous compilation.
+    126 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  BOMBA EXTERNAL rust.vcxproj -> C:\Users\rsmet\source\repos\BOMBA EXTERNAL rust\x64\Release\BOMBA EXTERNAL rust.exe
